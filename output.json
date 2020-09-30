@@ -1,0 +1,221 @@
+[
+    {
+        "name": "Nissan Leaf",
+        "year": 2020,
+        "subHeading": "40KW N-Connecta 5dr",
+        "price": 24395,
+        "pictureUrl": "https://m.atcdn.co.uk/a/media/w800h600/b93c3023618145ad8f0f96d8ab80900c.jpg",
+        "keySpecs": {
+            "transmissionType": "Automatic",
+            "vehicleType": "Hatchback",
+            "fuelType": "Electric",
+            "doors": 5,
+            "seats": 5
+        },
+        "batteryPerformance": {
+            "batteryRange": "168 miles",
+            "fullChargeTime": "21 hours",
+            "quickChargeTime": "7.5 hours"
+        },
+        "siteUrl": "https://www.autotrader.co.uk/car-details/202009013175626?advertising-location=at_cars&fuel-type=Electric&postcode=eh525en&year-from=2018&radius=25&sort=distance&onesearchad=New&onesearchad=Nearly%20New&onesearchad=Used&page=1"
+    },
+    {
+        "name": "Smart EQ Forfour",
+        "year": 2019,
+        "subHeading": "Prime Premium Plus 5dr",
+        "price": 14995,
+        "pictureUrl": "https://m.atcdn.co.uk/a/media/w800h600/5bd4cd8b12bf429a845ced16d95078dc.jpg",
+        "keySpecs": {
+            "transmissionType": "Automatic",
+            "vehicleType": "Hatchback",
+            "fuelType": "Electric",
+            "doors": 5,
+            "seats": 4
+        },
+        "batteryPerformance": {
+            "batteryRange": "96 miles",
+            "fullChargeTime": "6.2 hours (80%)",
+            "quickChargeTime": "40 mins (80%)"
+        },
+        "siteUrl": "https://www.autotrader.co.uk/car-details/202001055816629?advertising-location=at_cars&fuel-type=Electric&postcode=eh525en&year-from=2018&radius=25&sort=distance&onesearchad=New&onesearchad=Nearly%20New&onesearchad=Used&page=1"
+    },
+    {
+        "name": "Mercedes-Benz Eqc-Class",
+        "year": 2019,
+        "subHeading": "EQC 400 4MATIC AMG Line Premium 5dr",
+        "price": 66495,
+        "pictureUrl": "https://m.atcdn.co.uk/a/media/w800h600/cc86db5374c640029d4f7560f5d728ba.jpg",
+        "keySpecs": {
+            "transmissionType": "Automatic",
+            "vehicleType": "SUV",
+            "fuelType": "Electric",
+            "doors": 5,
+            "seats": 5
+        },
+        "batteryPerformance": {
+            "batteryRange": "252 miles",
+            "fullChargeTime": "40.8 hours"
+        },
+        "siteUrl": "https://www.autotrader.co.uk/car-details/202008152508039?advertising-location=at_cars&fuel-type=Electric&postcode=eh525en&year-from=2018&radius=25&sort=distance&onesearchad=New&onesearchad=Nearly%20New&onesearchad=Used&page=1"
+    },
+    {
+        "name": "BMW i3 Series",
+        "year": 2019,
+        "subHeading": "i3 120Ah 5dr",
+        "price": 29900,
+        "pictureUrl": "https://m.atcdn.co.uk/a/media/w800h600/7deadb3653824ca9858eefff01ffd223.jpg",
+        "keySpecs": {
+            "transmissionType": "Automatic",
+            "vehicleType": "Hatchback",
+            "fuelType": "Electric",
+            "doors": 5,
+            "seats": 4
+        },
+        "batteryPerformance": {
+            "batteryRange": "188 miles",
+            "fullChargeTime": "15 hours (80%)",
+            "quickChargeTime": "9.7 hours (80%)"
+        },
+        "siteUrl": "https://www.autotrader.co.uk/car-details/202008112351595?advertising-location=at_cars&fuel-type=Electric&postcode=eh525en&year-from=2018&radius=25&sort=distance&onesearchad=New&onesearchad=Nearly%20New&onesearchad=Used&page=1"
+    },
+    {
+        "name": "BMW i3 Series",
+        "year": 2019,
+        "subHeading": "i3 120Ah 5dr",
+        "price": 29990,
+        "pictureUrl": "https://m.atcdn.co.uk/a/media/w800h600/c67b2716595e4c018bd9c900cad7f28d.jpg",
+        "keySpecs": {
+            "transmissionType": "Automatic",
+            "vehicleType": "Hatchback",
+            "fuelType": "Electric",
+            "doors": 5,
+            "seats": 4
+        },
+        "batteryPerformance": {
+            "batteryRange": "188 miles",
+            "fullChargeTime": "15 hours (80%)",
+            "quickChargeTime": "9.7 hours (80%)"
+        },
+        "siteUrl": "https://www.autotrader.co.uk/car-details/202008102301475?advertising-location=at_cars&fuel-type=Electric&postcode=eh525en&year-from=2018&radius=25&sort=distance&onesearchad=New&onesearchad=Nearly%20New&onesearchad=Used&page=1"
+    },
+    {
+        "name": "BMW i3 Series",
+        "year": 2019,
+        "subHeading": "i3s 120Ah 5dr",
+        "price": 31490,
+        "pictureUrl": "https://m.atcdn.co.uk/a/media/w800h600/115e068fab404890adf567e5f498b45c.jpg",
+        "keySpecs": {
+            "transmissionType": "Automatic",
+            "vehicleType": "Hatchback",
+            "fuelType": "Electric",
+            "doors": 5,
+            "seats": 4
+        },
+        "batteryPerformance": {
+            "batteryRange": "175 miles",
+            "fullChargeTime": "15 hours (80%)",
+            "quickChargeTime": "9.7 hours (80%)"
+        },
+        "siteUrl": "https://www.autotrader.co.uk/car-details/202008122394420?advertising-location=at_cars&fuel-type=Electric&postcode=eh525en&year-from=2018&radius=25&sort=distance&onesearchad=New&onesearchad=Nearly%20New&onesearchad=Used&page=1"
+    },
+    {
+        "name": "BMW i3 Series",
+        "year": 2020,
+        "subHeading": "i3s 120Ah 5dr",
+        "price": 32990,
+        "pictureUrl": "https://m.atcdn.co.uk/a/media/w800h600/6ce87b0230cb4f42893cacd66730dd49.jpg",
+        "keySpecs": {
+            "transmissionType": "Automatic",
+            "vehicleType": "Hatchback",
+            "fuelType": "Electric",
+            "doors": 5,
+            "seats": 4
+        },
+        "batteryPerformance": {
+            "batteryRange": "175 miles",
+            "fullChargeTime": "15 hours (80%)",
+            "quickChargeTime": "9.7 hours (80%)"
+        },
+        "siteUrl": "https://www.autotrader.co.uk/car-details/202007281804965?advertising-location=at_cars&fuel-type=Electric&postcode=eh525en&year-from=2018&radius=25&sort=distance&onesearchad=New&onesearchad=Nearly%20New&onesearchad=Used&page=1"
+    },
+    {
+        "name": "Nissan Leaf",
+        "year": 2018,
+        "subHeading": "40KW Tekna with Pro Pilot Technology 5dr",
+        "price": 23395,
+        "pictureUrl": "https://m.atcdn.co.uk/a/media/w800h600/fa2de66410f94324844f0c9bc711cbef.jpg",
+        "keySpecs": {
+            "transmissionType": "Automatic",
+            "vehicleType": "Hatchback",
+            "fuelType": "Electric",
+            "doors": 5,
+            "seats": 5
+        },
+        "batteryPerformance": {
+            "batteryRange": "168 miles",
+            "fullChargeTime": "21 hours",
+            "quickChargeTime": "7.5 hours"
+        },
+        "siteUrl": "https://www.autotrader.co.uk/car-details/202009173836084?advertising-location=at_cars&fuel-type=Electric&postcode=eh525en&year-from=2018&radius=25&sort=distance&onesearchad=New&onesearchad=Nearly%20New&onesearchad=Used&page=1"
+    },
+    {
+        "name": "Nissan Leaf",
+        "year": 2020,
+        "subHeading": "40KW N-Connecta 5dr",
+        "price": 23995,
+        "pictureUrl": "https://m.atcdn.co.uk/a/media/w800h600/6c20c42660e447269b9832c23c1a2bce.jpg",
+        "keySpecs": {
+            "transmissionType": "Automatic",
+            "vehicleType": "Hatchback",
+            "fuelType": "Electric",
+            "doors": 5,
+            "seats": 5
+        },
+        "batteryPerformance": {
+            "batteryRange": "168 miles",
+            "fullChargeTime": "21 hours",
+            "quickChargeTime": "7.5 hours"
+        },
+        "siteUrl": "https://www.autotrader.co.uk/car-details/202007141228266?advertising-location=at_cars&fuel-type=Electric&postcode=eh525en&year-from=2018&radius=25&sort=distance&onesearchad=New&onesearchad=Nearly%20New&onesearchad=Used&page=1"
+    },
+    {
+        "name": "Nissan Leaf",
+        "year": 2019,
+        "subHeading": "40KW Tekna with Pro Pilot Technology 5dr",
+        "price": 23995,
+        "pictureUrl": "https://m.atcdn.co.uk/a/media/w800h600/0738c9085018444691ccb4ccaa7bf916.jpg",
+        "keySpecs": {
+            "transmissionType": "Automatic",
+            "vehicleType": "Hatchback",
+            "fuelType": "Electric",
+            "doors": 5,
+            "seats": 5
+        },
+        "batteryPerformance": {
+            "batteryRange": "168 miles",
+            "fullChargeTime": "21 hours",
+            "quickChargeTime": "7.5 hours"
+        },
+        "siteUrl": "https://www.autotrader.co.uk/car-details/201912115247374?advertising-location=at_cars&fuel-type=Electric&postcode=eh525en&year-from=2018&radius=25&sort=distance&onesearchad=New&onesearchad=Nearly%20New&onesearchad=Used&page=1"
+    },
+    {
+        "name": "Hyundai Ioniq",
+        "year": 2019,
+        "subHeading": "88kW Electric Premium SE 28kWh 5dr Auto",
+        "price": 22250,
+        "pictureUrl": "https://m.atcdn.co.uk/a/media/w800h600/ff90fc434b394e8db162b03447da9e27.jpg",
+        "keySpecs": {
+            "transmissionType": "Automatic",
+            "vehicleType": "Hatchback",
+            "fuelType": "Electric",
+            "doors": 5,
+            "seats": 5
+        },
+        "batteryPerformance": {
+            "batteryRange": "174 miles",
+            "fullChargeTime": "12 hours (95%)",
+            "quickChargeTime": "4.4 hours"
+        },
+        "siteUrl": "https://www.autotrader.co.uk/car-details/202009244144346?advertising-location=at_cars&fuel-type=Electric&postcode=eh525en&year-from=2018&radius=25&sort=distance&onesearchad=New&onesearchad=Nearly%20New&onesearchad=Used&page=1"
+    }
+]
